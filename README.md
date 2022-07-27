@@ -1,6 +1,6 @@
 # Mask-And-Sosial-Distance-Detector
 
-__Description__
+__Description__ \n
 Final Project Kecerdasan Buatan
 "Mask Detection and Object Measuring with CNN Algorithm"
 Pendeteksian pada masker dan jarak untuk social distancing

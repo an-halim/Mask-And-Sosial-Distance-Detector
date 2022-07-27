@@ -16,7 +16,7 @@ Library yang digunakan.
 - opencv-python (4.6.0)
 
 
-yolo-coco model weight: https://pjreddie.com/media/files/yolov3.weights
+yolo-coco model weight: https://pjreddie.com/media/files/yolov3.weights \r\n
 dataset: https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset
 
 
